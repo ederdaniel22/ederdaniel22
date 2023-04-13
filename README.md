@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Eder Daniel Domingues 👋
 
-<!--
-**ederdaniel22/ederdaniel22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a WEB developer and, i'm studying backend development and mobile development at [Rocketseat](https://rocketseat.com.br).
 
-Here are some ideas to get you started:
+#### Current stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚧 Main language:  `Javascript`
+- 👩🏼‍💻 Frontend: `HTML5`, `CSS3`, `Javascript`, `React`
+- ⏪️ Backend: Ǹodejs`
+- 📝 Layout design read: `Figma`
+- 🔒️Version code control: `Git & Github`
+- 🔧 Tools: `VsCode`
+
+#### Contacts
+
+- 📬 Email: eder_infonet@hotmail.com
+- 📡 https://www.linkedin.com/in/ederdaniel22/
