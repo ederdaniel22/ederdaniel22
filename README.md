@@ -5,12 +5,12 @@ I'm a WEB frontend developer and, i'm studying backend development and mobile de
 
 #### Current stack
 
-- 🚧 Main language:  `Javascript`
-- 👩🏼‍💻 Frontend: `HTML5`, `CSS3`, `Javascript`, `React`
-- ⏪️ Backend: Ǹodejs`
-- 📝 Layout design read: `Figma`
+- 🚧 Main language:  `SQL`
+- 👩🏼‍💻 Frontend: `Power BI`
+- ⏪️ Backend: 'PostgreSQL, MySQL`
+- 📝 Layout design read and write: `Figma`
 - 🔒️Version code control: `Git & Github`
-- 🔧 Tools: `VsCode`
+- 🔧 Tools: `VsCode, ClaudeAI, Github Copilot`
 
 #### Contacts
 
