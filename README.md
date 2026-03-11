@@ -1,7 +1,7 @@
 ### Hi there, I'm Eder Daniel Domingues 👋
 
 #### About
-I'm a WEB frontend developer and, i'm studying backend development and mobile development at [Rocketseat](https://rocketseat.com.br).
+I'm a Analist Datasets, i'm backend development.
 
 #### Current stack
 
